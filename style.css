@@ -43,10 +43,6 @@ body{
     align-items: center;
     justify-content: center;
     padding: 300px 0;
-<<<<<<< HEAD
-    max-width: 100%;
-=======
->>>>>>> 8d635ec7c1235dbc801395d9573b3fb7dee955db
 }
 .hero__title{
     font-size: 45px;
@@ -140,10 +136,6 @@ body{
     width: 300px;
     border-radius: 15px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
-<<<<<<< HEAD
-    max-width: 100%;
-=======
->>>>>>> 8d635ec7c1235dbc801395d9573b3fb7dee955db
 }
 .projects__img-portfolio{
     height: 300px;
@@ -213,7 +205,6 @@ body{
     margin: 0;
     width: 100%;
 }
-<<<<<<< HEAD
 .hamburger{
     display: none;
 }
@@ -454,5 +445,3 @@ body{
         cursor: pointer;
     }
 }
-=======
->>>>>>> 8d635ec7c1235dbc801395d9573b3fb7dee955db
