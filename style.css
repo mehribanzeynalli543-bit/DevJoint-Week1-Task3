@@ -136,6 +136,7 @@ body{
     width: 300px;
     border-radius: 15px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+    max-width:100%;
 }
 .projects__img-portfolio{
     height: 300px;
