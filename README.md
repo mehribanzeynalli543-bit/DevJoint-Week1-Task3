@@ -1,16 +1,26 @@
-# DevJoint Internship - Week 1 Task 1
+# Task 3 — Interactive Navigation with Vanilla JavaScript
 
-Bu layihə **DevJoint** uzaqdan təcrübə proqramının 1-ci həftəsinin ilk tapşırığı üçün hazırlanmışdır. Tapşırığın məqsədi semantik teqlərdən istifadə edərək düzgün bir HTML skeleti (skeleton) qurmaqdır.
+## Layihənin Təsviri
+
+Səhifədə aşağıdakı JavaScript funksionallıqları reallaşdırılmışdır:
+- **Responsive Mobile Navigation (Drawer Menu):** Mobil ekranlarda açılıb-bağlanan rahat navigasiya menyusu.
+- **Smooth Scrolling:** Menyu linklərinə kliklədikdə müvafiq bölmələrə səlis və rəvan keçid.
+- **Dynamic UI States:** Menyu açıq olduqda fonun qaralması və ya düymə ikonlarının dinamik dəyişməsi.
+
+---
 
 ## İstifadə Olunan Texnologiyalar
-* **HTML5** (Semantik teqlər: `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`)
 
-## Layihə Strukturunun İzahı
-* `semantik_html_strukturu.html` - Tapşırığın əsas HTML strukturu.
-* `photos/` - Layihədə istifadə olunan şəkillər qovluğu.
-  * `coding_photo.jpg`
-  * `portolio_app.jpg`
-  * `web_app.jpg`
+- **HTML5** — Semantik səhifə strukturu (`<nav>`, `<header>`, `<section>`)
+- **CSS3** — Adaptiv dizayn, keçid effekti üçün animasiyalar (Transitions) və Media Queries
+- **Vanilla JavaScript (ES6+)** — DOM manipulyasiyası, `addEventListener`, class idarəetməsi (`classList.toggle`)
 
-## Quraşdırma və Baxış
-Layihəni lokal kompüterinizdə yoxlamaq üçün bu repozitoriyanı klonlaya və `semantik_html_strukturu.html` faylını brauzerdə aça bilərsiniz.
+---
+
+## Quraşdırma və İşə Salma Addımları
+
+Layihəni öz kompyuterinizdə lokal olaraq işə salmaq üçün:
+
+1. **Repozitoriyanı klonlayın:**
+   ```bash
+   git clone [https://github.com/mehribanzeynalli543-bit/DevJoint-Week1-Task3.git](https://github.com/mehribanzeynalli543-bit/DevJoint-Week1-Task3.git)
